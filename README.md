@@ -1,4 +1,4 @@
-# Practica-1-php
+# Ejercicio-1-php
 Pequeño aplicativo web para un parque nacional para el control de los  animales que poseen en la zona
 Enunciado:
 El Parque Nacional La Ponderosa, desea implementar un pequeño aplicativo web para el control de los 
