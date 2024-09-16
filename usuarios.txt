@@ -1,0 +1,4 @@
+"nombre"	"cedula"	"sexo"	"fechaNacimiento"	"perfil"	"user"	"pass"
+"Adriana Rubio"	"123456789"	"Femenino"	"1999-99-99"	"Administrador"	"arubio"	"123"
+"Fran Hernandez"	"987654321"	"Masculino"	"1999-11-14"	"Supervisor"	"fhernandez"	"123"
+"Carlos Quesada"	"135798642"	"Masculino"	"1999-02-18"	"Consultor"	"cquesada"	"123"
